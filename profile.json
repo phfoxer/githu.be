@@ -1,6 +1,7 @@
 {
   "title": "Senior front-end",
-  "image_cover_url": "",
+  "image_cover_url": "https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2021/2021-04/tb_telerik-and-kendo_1200x303-blog-cover.png?sfvrsn=f01d7f27_2",
+  "follower_bar_color": "#162b70",
   "skills": [
     "JavaScript",
     "Angular",
@@ -8,6 +9,9 @@
     "PHP",
     "C#",
     "AWS",
+    "React Native",
+    "Firebase",
+    "Google Cloud",
     "Nodejs"
   ],
   "social": [
@@ -21,28 +25,94 @@
     }
   ],
   "languages": [
-    "Portuguese",
-    "English"
+    "Português",
+    "Inglês"
   ],
   "experience": [
     {
-      "company_name": "Google",
+      "company_name": "GFT",
       "occupation": "Senior Front end",
       "stack": [
-        "Go",
+        "Angular",
         "AWS",
-        "CSS",
         "C#"
       ],
-      "company_image": "https://img1.gratispng.com/20180324/kae/kisspng-google-logo-g-suite-chrome-5ab6e6189d5b63.7354407715219358966445.jpg",
+      "company_image": "https://mollicait.com/wp-content/uploads/2021/04/300-gft.png",
       "duration": "1 years"
+    },
+    {
+      "company_name": "NVGO",
+      "occupation": "Product Manager",
+      "stack": [
+        "Metrics",
+        "Discover",
+        "Scrum",
+        "Delivery"
+      ],
+      "company_image": "",
+      "duration": "1 years"
+    },
+    {
+      "company_image": "https://yt3.ggpht.com/ytc/AKedOLQl5UpJZHfrgcquRcLgrlhi8WtvTHtYhOa2h0D5eg=s900-c-k-c0x00ffffff-no-rj",
+      "company_name": "TOTVS",
+      "occupation": "Senior front-end",
+      "stack": [
+        "AWS",
+        "Angular",
+        "C#"
+      ],
+      "duration": "1 years"
+    },
+    {
+      "company_image": "",
+      "company_name": "Infocraft",
+      "occupation": "Fullstack Developer",
+      "stack": [
+        "PHP",
+        "AngularJS",
+        "ShellScript"
+      ],
+      "duration": "3 years"
+    },
+    {
+      "company_image": "",
+      "company_name": "Lojão Do Crédito",
+      "occupation": "Fullstack Developer",
+      "stack": [
+        "PHP",
+        "AngularJS",
+        "ShellScript"
+      ],
+      "duration": "1.1 years"
+    },
+    {
+      "company_image": "",
+      "company_name": "Tecplus",
+      "occupation": "Analista de Sistemas",
+      "stack": [
+        "PHP",
+        "Javascript",
+        "HTML",
+        "CSS"
+      ],
+      "duration": "3 years"
     }
   ],
   "education": [
     {
-      "logo": "https://upload.wikimedia.org/wikipedia/pt/2/29/Harvard_Logo.svg.png",
-      "institution": "Harvard",
+      "logo": "https://irp.cdn-website.com/dbd26f15/dms3rep/multi/logo_igti_2021.svg",
+      "institution": "IGTI",
       "occupation": "MBA Product Management"
+    },
+    {
+      "logo": "https://irp.cdn-website.com/dbd26f15/dms3rep/multi/logo_igti_2021.svg",
+      "institution": "IGTI",
+      "occupation": "MBA Design de Interação"
+    },
+    {
+      "logo": "https://www.unijorge.edu.br/wp-content/themes/unijorge/dist/images/header_logo.svg",
+      "institution": "UNIJORGE",
+      "occupation": "Curso superior de Engenharia de Software"
     }
   ]
 }
