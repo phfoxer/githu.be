@@ -25,8 +25,8 @@
     }
   ],
   "languages": [
-    "Português",
-    "Inglês"
+    "Portuguese",
+    "English"
   ],
   "experience": [
     {
@@ -37,7 +37,6 @@
         "AWS",
         "C#"
       ],
-      "company_image": "https://mollicait.com/wp-content/uploads/2021/04/300-gft.png",
       "duration": "1 years"
     },
     {
@@ -53,7 +52,6 @@
       "duration": "1 years"
     },
     {
-      "company_image": "https://yt3.ggpht.com/ytc/AKedOLQl5UpJZHfrgcquRcLgrlhi8WtvTHtYhOa2h0D5eg=s900-c-k-c0x00ffffff-no-rj",
       "company_name": "TOTVS",
       "occupation": "Senior front-end",
       "stack": [
@@ -64,7 +62,6 @@
       "duration": "1 years"
     },
     {
-      "company_image": "",
       "company_name": "Infocraft",
       "occupation": "Fullstack Developer",
       "stack": [
@@ -75,7 +72,6 @@
       "duration": "3 years"
     },
     {
-      "company_image": "",
       "company_name": "Lojão Do Crédito",
       "occupation": "Fullstack Developer",
       "stack": [
@@ -86,7 +82,6 @@
       "duration": "1.1 years"
     },
     {
-      "company_image": "",
       "company_name": "Tecplus",
       "occupation": "Analista de Sistemas",
       "stack": [
@@ -100,17 +95,14 @@
   ],
   "education": [
     {
-      "logo": "https://irp.cdn-website.com/dbd26f15/dms3rep/multi/logo_igti_2021.svg",
       "institution": "IGTI",
       "occupation": "MBA Product Management"
     },
     {
-      "logo": "https://irp.cdn-website.com/dbd26f15/dms3rep/multi/logo_igti_2021.svg",
       "institution": "IGTI",
       "occupation": "MBA Design de Interação"
     },
     {
-      "logo": "https://www.unijorge.edu.br/wp-content/themes/unijorge/dist/images/header_logo.svg",
       "institution": "UNIJORGE",
       "occupation": "Curso superior de Engenharia de Software"
     }
